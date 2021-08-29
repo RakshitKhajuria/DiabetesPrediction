@@ -1,4 +1,4 @@
-from app import X
+from model import X
 from flask import Flask,redirect,url_for,render_template,request
 import csv 
 import numpy as np
