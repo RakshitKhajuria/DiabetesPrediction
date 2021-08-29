@@ -3,6 +3,14 @@
 
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
+### Table of Content
+  * [Demo](#Demo)
+  * [Data](#Data)
+  * [Content](#Content)
+  * [Pre-Requisites](#Pre-Requisites)
+  * [Installation](#Installation)
+  * [Acknowledgements](#Acknowledgements)
+  * [About Me](#About Me)
   
 ## Demo
 
@@ -69,7 +77,7 @@ The project was developed using python 3.6.7 with the following packages.
     
 ## Acknowledgements
 
- - Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
+- Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
 
 # About Me
   
