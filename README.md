@@ -7,7 +7,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
   * [Demo](#Demo)
   * [Data](#Data)
   * [Content](#Content)
-  * [Pre-Requisites](#Pre-Requisites)
+  * [Requirements](#Requuirements)
   * [Installation](#Installation)
   * [Learning-Objective](#Learning-Objective)
   * [Technologies Used](#Technologies-Used)
@@ -37,7 +37,7 @@ Predictor variables includes:
     6. Skin Thickness 
     7. Diabetes Pedigree Function
 
-# Pre-Requisites
+# Requirements
 The project was developed using python 3.6.7 with the following packages.
 
     Flask==1.1.1
