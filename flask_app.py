@@ -51,8 +51,6 @@ def predict():
         
         return render_template('result.html', prediction=my_prediction)
 
-print(X)
-
 if __name__ == '__main__':
     #DEBUG is SET to TRUE. CHANGE FOR PROD
     app.run(port=5000,debug=True)
