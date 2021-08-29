@@ -9,8 +9,11 @@ This dataset is originally from the National Institute of Diabetes and Digestive
   * [Content](#Content)
   * [Pre-Requisites](#Pre-Requisites)
   * [Installation](#Installation)
+  * [Learning-Objective](#Learning-Objective)
+  * [Technologies Used](#Technologies-Used)
   * [Acknowledgements](#Acknowledgements)
   * [About Me](#AboutMe)
+  
   
 ## Demo
 
@@ -74,12 +77,31 @@ The project was developed using python 3.6.7 with the following packages.
 ```bash
   pip install -r requirements.txt
 ```
-    
+### Learning Objective
+The following points were the objective of the project . If you are looking for all the following points in this repo then i have not covered all in this repo. I'm working on blog about this mini project and I'll update the link of blog about all the points in details later . (The main intention was to create an end-to-end ML project.)  
+- Data gathering 
+- Descriptive Analysis 
+- Data Visualizations 
+- Data Preprocessing 
+- Data Modelling 
+- Model Evaluation 
+- Model Deployment 
+
+### Technologies Used  
+![](https://forthebadge.com/images/badges/made-with-python.svg) 
+
+[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
+<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
+<img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/heroku.png" width=170>
+<img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/numpy.png" width=170>
+<img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/pandas.jpeg" width=170>
+
+
 ## Acknowledgements
 
 - Took inspiration from [Krish Naik](https://github.com/krishnaik06) Who is a youtuber he makes contents on Data science [his youtube channel link](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig) 
 
-# About Me
+# AboutMe
   
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
