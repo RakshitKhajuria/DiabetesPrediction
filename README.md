@@ -92,7 +92,6 @@ The following points were the objective of the project . If you are looking for 
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 <img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/heroku.png" width=170>
 <img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/numpy.png" width=170>
 <img target="_blank" src="https://github.com/itzanuragsinghania/Predicting-Diabetes-/blob/master/Resource/pandas.jpeg" width=170>
 
