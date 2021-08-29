@@ -85,7 +85,7 @@ The following points were the objective of the project . If you are looking for 
 - Data Preprocessing 
 - Data Modelling 
 - Model Evaluation 
-- Model Deployment 
+
 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg) 
