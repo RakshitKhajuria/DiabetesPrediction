@@ -51,6 +51,15 @@ The project was developed using python 3.6.7 with the following packages.
 
     pandas>=0.19
 
+# Installation 
+```bash
+- Clone this repository and unzip it.
+- After downloading, cd into the flask directory.
+- Begin a new virtual environment with Python 3 and activate it.
+- Install the required packages using pip install -r requirements.txt
+- Execute the command: python flask_app.py
+
+```
 
 ## Installation with pip:
 
